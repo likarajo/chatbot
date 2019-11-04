@@ -5,8 +5,8 @@ Python 3.7.x, pip3
 
 ## Requirements
 * Flask
-* **AIML** [Learn More](http://www.aiml.foundation/)
-    ***Arificial Intelligence Markup Language*** is an XML dialect for creating natural language software agents.
+* **AIML** [Learn More](http://www.aiml.foundation/)<br>
+   ***Arificial Intelligence Markup Language*** is an XML dialect for creating natural language software agents.
 
 ```bash
 pip3 install -r requirements.txt

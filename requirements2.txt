@@ -1,0 +1,6 @@
+gTTS
+SpeechRecognition
+PyAudio
+pygame
+requests
+bs4

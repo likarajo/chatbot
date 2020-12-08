@@ -1,4 +1,9 @@
+import time
 import os
+os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "hide"
+from pygame import mixer
+from gtts import gTTS
+import speech_recognition as sr
 import aiml
 from autocorrect import Speller
 from flask import Flask, render_template, request
